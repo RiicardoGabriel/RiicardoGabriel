@@ -28,7 +28,7 @@ Atualmente faço o **curso de desenvolvimento** web na **Trybe** e também **Ci�
 
 ## Alguns interesses pessoais
 
-- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito do desenvolvimento web, estou aprendendo bastante sobre o HTML, CSS, Javascript;
+- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito do desenvolvimento web (full stack), estou aprendendo bastante sobre o HTML, CSS, Javascript, React, SQL, Docker;
 - 💻 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 🗣️ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 
@@ -39,5 +39,8 @@ Atualmente faço o **curso de desenvolvimento** web na **Trybe** e também **Ci�
   <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png">
+  <img align="center" alt="Docker" height="40" width="50" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
 </div>
