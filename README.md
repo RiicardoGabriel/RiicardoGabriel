@@ -19,7 +19,7 @@
 ## Um pouco sobre mim...
 
 Me chamo Ricardo Gabriel, mas todos me chamam de **Gabriel**, sou de Jaboatão dos Guararapes (um cidade que fica a 10 minutinhos de Recife), Pernambuco, Brasil.
-Atualmente faço o **curso de desenvolvimento** web na **Trybe** e também **Ciências do Consumo** (com ênfase em tudo que cerca o consumidor em geral e empresas) na **Universidade Federal Rural de Pernambuco**.
+Sou um **desenvolvedor web full stack**, minha formação foi na **Trybe** e também **Ciências do Consumo** (com ênfase em tudo que cerca o consumidor em geral e empresas) na **Universidade Federal Rural de Pernambuco**.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiicardoGabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
