@@ -1,46 +1,42 @@
-# Olá! Bom dia, boa tarde e boa noite 😃
+# Olá, eu sou Ricardo Gabriel 😎
 
-## Minhas Redes Sociais
-<div>
-<a href="https://github.com/RiicardoGabriel" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/riicardogabriel/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/ricardogabriel.44/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/ricardo-gabriel-2543531a4/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-</div>
+```js
+import DesenvolvedorWeb from 'Gabriel';
 
-## Um pouco sobre mim...
+class SobreMim extends DesenvolvedorWeb {
+  private nome = 'Ricardo Gabriel';
+  private idade = '22 Anos'
+  private local = 'Jaboatão dos Guararapes, PE';
+  
+  return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}.`;
+};
 
-Me chamo Ricardo Gabriel, mas todos me chamam de **Gabriel**, sou de Jaboatão dos Guararapes (um cidade que fica a 10 minutinhos de Recife), Pernambuco, Brasil.
-Sou um **desenvolvedor web full stack**, minha formação foi na **Trybe** e também **Ciências do Consumo** (com ênfase em tudo que cerca o consumidor em geral e empresas) na **Universidade Federal Rural de Pernambuco**.
+class HardSkills extends DesenvolvedorWeb {
+  public languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL' ];
+  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React'];
+  public codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
+  
+  return 'Dev FullStack';
+};
+```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiicardoGabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiicardoGabriel&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiicardoGabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiicardoGabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Alguns interesses pessoais
+  ## Contato
+  
+  <div> 
+   
+  <p align="center">
+  <a href="mailto:riicardogabriel12@gmail.com" alt="Gmail" >
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+ 
+  <a href="https://www.linkedin.com/in/riicardogabriel/" alt="Linkedin" >
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito do desenvolvimento web (full stack), estou aprendendo bastante sobre o HTML, CSS, Javascript, React, SQL, Docker;
-- 💻 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 🗣️ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-
-## Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png">
-  <img align="center" alt="Docker" height="40" width="50" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
-</div>
+  <a href="https://www.instagram.com/riicardogabriel/" alt="Instagram" >
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>
+ </div>
