@@ -5,7 +5,7 @@ import DesenvolvedorWeb from 'Gabriel';
 
 class SobreMim extends DesenvolvedorWeb {
   private nome = 'Ricardo Gabriel';
-  private idade = '22 Anos'
+  private idade = '25 Anos'
   private local = 'Jaboatão dos Guararapes, PE';
   
   return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}.`;
